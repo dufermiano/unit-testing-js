@@ -1,0 +1,21 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "Repo to start learning unit testing with javascript and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Fermiano",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-mocha-test": "^0.13.3",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^5.0.0",
+    "gulp-util": "^3.0.8",
+    "mocha": "^5.0.0"
+  }
+}
